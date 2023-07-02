@@ -315,36 +315,3 @@ Start exploring the data stories now and let the charisma and talent of three gr
     <script>anchors.add();</script>
   </body>
 </html>
-
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>annaavona.first</title>
-<meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="annaavona.first" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://annaavona.github.io/annaavona.first/" />
-<meta property="og:url" content="https://annaavona.github.io/annaavona.first/" />
-<meta property="og:site_name" content="annaavona.first" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="annaavona.first" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"annaavona.first","name":"annaavona.first","url":"https://annaavona.github.io/annaavona.first/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/annaavona.first/assets/css/style.css?v=e652189ebcd1c8eea693541ac371229e2331dc77" />
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/annaavona.first/favicon.ico" -->
-
-<!-- end custom head snippets -->
